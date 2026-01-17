@@ -12,11 +12,11 @@ The application uses:
 
 Key Concepts Covered
 
-*Spring Boot Dependency Injection (Constructor-based)
-*Interface-driven design
-*Multiple bean implementations
-*@ConditionalOnProperty for runtime bean selection
-*Externalized configuration (application.properties)
-*Clean separation of concerns
+* Spring Boot Dependency Injection (Constructor-based)
+* Interface-driven design
+* Multiple bean implementations
+* @ConditionalOnProperty for runtime bean selection abd @Qualifier
+* Externalized configuration (application.properties)
+* Clean separation of concerns
 
 Open/Closed Principle in practice
